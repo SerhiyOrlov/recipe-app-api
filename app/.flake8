@@ -6,4 +6,4 @@ exclude =
     manage.py,
     settings.py
 
-indent-string='\t'
+ignore = W191
